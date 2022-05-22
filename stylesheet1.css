@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(237, 178, 61);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-align: center;
+    color: darkgreen;
+  }
+  p {
+    background-color: rgb(4, 13, 52);
+    font-style: oblique;
+    color: rgb(0, 255, 208);
+    font-weight: 900;
+  }
+ body{
+     background-color: blue;
+ }
